@@ -87,7 +87,7 @@ Reduce Phase:
 ## Prerequisites
 Before you start, make sure you have:
 
-- [Java JDK 21+](https://adoptium.net/)
+- [Java JDK 21+](https://www.oracle.com/java/technologies/downloads/#jdk21-windows)
 - [Maven](https://maven.apache.org/) (for building the project)
 - [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/)
 - Internet access to download input text files
